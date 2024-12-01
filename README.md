@@ -20,7 +20,7 @@ Freaky Slots is a funny brainrot slot machine game developed using Python and Py
 
 2. Install the required dependencies:
     ```sh
-    pip install -r requirements.txt
+    pip install pygame
     ```
 
 3. Run the game:
